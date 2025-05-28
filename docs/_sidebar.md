@@ -1,0 +1,11 @@
+- 代码片段
+    - java
+        - [list stream](code/java/list)
+        - [mybatis](code/java/mybatis)
+        - [screw-pom配置](code/java/screw)
+    - idss
+        - [数据集成](code/work/sciApi)
+        - [解析表达式](code/work/parsii)
+
+    - linux
+        - [linux常用命令](code/linux/linux)
