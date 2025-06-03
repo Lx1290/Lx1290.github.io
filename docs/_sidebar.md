@@ -9,3 +9,5 @@
 
     - linux
         - [linux常用命令](code/linux/linux)
+- 项目记录
+    - [国能](project/gn.md)
