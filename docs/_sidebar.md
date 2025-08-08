@@ -3,11 +3,19 @@
         - [list stream](code/java/list)
         - [mybatis](code/java/mybatis)
         - [screw-pom配置](code/java/screw)
+        - [easyExcel](code/java/easyExcel)
     - idss
         - [数据集成](code/work/sciApi)
         - [解析表达式](code/work/parsii)
 
     - linux
         - [linux常用命令](code/linux/linux)
+        - [redis记录](code/linux/redis)
 - 项目记录
-    - [国能](project/gn.md)
+    - 国能
+        - [接数相关](project/guoneng/data_input.md)
+        - [统一接口](project/guoneng/interface.md)
+        - [指标管理](project/guoneng/service_manage.md) 
+    - 富宝
+        - [需求对接](project/fubao/need.md)
+        - [接口文档](project/fubao/interface-doc.md)
